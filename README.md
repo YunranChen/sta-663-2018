@@ -13,7 +13,7 @@ This course is designed for graduate research students who need to analyze compl
 The capstone project involves the creation of an optimized Python package implementing a statistical algorithm from the research literature.
 
 
-# Aim: What you should learn from this course
+## Aim: What you should learn from this course
 
 - Able to program fluently in Python
 

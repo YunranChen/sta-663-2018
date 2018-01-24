@@ -1,6 +1,6 @@
 # sta-663-2018
 
-##Content:Computational Statistics and Statistical Computing
+## Content: Computational Statistics and Statistical Computing
 
 This course is designed for graduate research students who need to analyze complex data sets, and/or implement efficient statistical algorithms from the literature. We focus on the following analytical skills:
 
@@ -13,9 +13,9 @@ This course is designed for graduate research students who need to analyze compl
 The capstone project involves the creation of an optimized Python package implementing a statistical algorithm from the research literature.
 
 
-##What you should learn from this course
+# Aim: What you should learn from this course
 
--Able to program fluently in Python
+- Able to program fluently in Python
 
 write idiomatic code
 
@@ -25,7 +25,7 @@ code in the functional style
 
 use vectorization for numerical computation
 
--Able to optimize code to improve performance
+- Able to optimize code to improve performance
 
 testing/benchmarking/profiling
 
@@ -37,7 +37,7 @@ exploit multi-core computers
 
 strategies for dealing with out-or-core data
 
--Able to explain the algorithms for statistical model fitting
+- Able to explain the algorithms for statistical model fitting
 
 matrix decompositions
 
@@ -45,11 +45,11 @@ optimization
 
 Monte Carlo algorithms
 
--Able to implement statistical algorithms from literature
+- Able to implement statistical algorithms from literature
 
 Convert a mathematical description and/or pseudo-code into a working implementation
 
-Able to use Python libraries for practical data analysis tasks
+- Able to use Python libraries for practical data analysis tasks
 
 numerical computing
 
